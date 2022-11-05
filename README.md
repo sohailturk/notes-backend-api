@@ -1,2 +1,2 @@
-# react-project
+# fullstack open nodejs backend
 notes-app-fullstack
